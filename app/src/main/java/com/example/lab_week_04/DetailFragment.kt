@@ -57,5 +57,3 @@ class DetailFragment : Fragment() {
             }
     }
 }
-
-//aopaa
